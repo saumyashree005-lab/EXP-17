@@ -32,10 +32,6 @@ np.mean() → Calculates mean value.
 plt.axvline() → Draws a vertical line (used to show mean).
 6. Scatter Plot
 plt.scatter(x, y) → Shows relationship between variables.
-
-Conditional coloring using list comprehension:
-
-['red' if condition else 'green']
 7. Seaborn Visualizations
 sns.lineplot() → Advanced line graph.
 sns.barplot() → Advanced bar chart.
@@ -45,19 +41,20 @@ sns.scatterplot() → Scatter plot using seaborn.
 Conditional Visualization → Coloring points based on category (Pass/Fail).
 Annotations → Displaying values on bar charts.
 Multiple DataFrames → Working with more than one dataset.
-GRAPHS CREATED IN THIS EXPERIMENT:
-Line Chart (Study Hours Trend)
-Advanced Line Chart (Study Hours vs Marks)
-Bar Chart (Marks per Day)
-Advanced Bar Chart (with value labels)
-Histogram (Marks Distribution)
-Histogram with Mean Line
-Scatter Plot (Study Hours vs Marks)
-Conditional Scatter Plot (Pass/Fail)
-Seaborn Line Plot (Sales Trend)
-Seaborn Bar Plot (Profit Analysis)
-Seaborn Histogram (Sales Distribution)
-Seaborn Scatter Plot (Sales vs Profit)
+
+# GRAPHS CREATED IN THIS EXPERIMENT:
+* Line Chart (Study Hours Trend)
+* Advanced Line Chart (Study Hours vs Marks)
+* Bar Chart (Marks per Day)
+* Advanced Bar Chart (with value labels)
+* Histogram (Marks Distribution)
+* Histogram with Mean Line
+* Scatter Plot (Study Hours vs Marks)
+* Conditional Scatter Plot (Pass/Fail)
+* Seaborn Line Plot (Sales Trend)
+* Seaborn Bar Plot (Profit Analysis)
+* Seaborn Histogram (Sales Distribution)
+* Seaborn Scatter Plot (Sales vs Profit)
 
 # CONCLUSION:
 
