@@ -11,16 +11,16 @@ Data visualization is the graphical representation of data to understand pattern
   
 # FUNCTIONS AND COMMANDS USED:
 
-Importing Libraries matplotlib.pyplot: Used for plotting graphs. 
-seaborn: For advanced statistical plots. pandas: For handling datasets. 
-numpy: For numerical operations like mean calculation.
-Creating Dataset Dictionary is converted into a DataFrame. 
-Each key represents a column.Line Chart marker highlights data points.
-Bar Chart Used for comparison.
-Advanced Bar Chart (with Labels) Displays values on top of each bar.
-Histogram bins controls number of intervals.
-Histogram with Mean Line axvline() - draws a vertical line showing mean.
-Scatter Plot Shows relationship between study time and marks.Seaborn Line Plot Cleaner and more attractive than Matplotlib.     
+* Importing Libraries matplotlib.pyplot: Used for plotting graphs. 
+* seaborn: For advanced statistical plots. pandas: For handling datasets. 
+* numpy: For numerical operations like mean calculation.
+* Creating Dataset Dictionary is converted into a DataFrame. 
+* Each key represents a column.Line Chart marker highlights data points.
+* Bar Chart Used for comparison.
+* Advanced Bar Chart (with Labels) Displays values on top of each bar.
+* Histogram bins controls number of intervals.
+* Histogram with Mean Line axvline() - draws a vertical line showing mean.
+* Scatter Plot Shows relationship between study time and marks.Seaborn Line Plot Cleaner and more attractive than Matplotlib.     
 
 # GRAPHS CREATED IN THIS EXPERIMENT:
 * Line Chart (Study Hours Trend)
