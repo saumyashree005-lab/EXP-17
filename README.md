@@ -1,11 +1,16 @@
+# NAME : SAUMYA SHREE
+# PRN : 25070123161
+
 # THEORY:
+
 Data visualization is the graphical representation of data to understand patterns, trends, and relationships. In Python, visualization is commonly performed using libraries like pandas, matplotlib, seaborn, and numpy.
 * pandas is used for data handling and creating DataFrames.
 * matplotlib is used for basic plotting like line charts, bar charts, histograms, and scatter plots.
 * seaborn is used for advanced and more visually appealing statistical plots.
 * numpy is used for numerical calculations like mean.
-* 
+  
 # FUNCTIONS AND COMMANDS USED:
+
 1. Importing Libraries
 import pandas as pd → Used for data manipulation and DataFrame creation.
 import matplotlib.pyplot as plt → Used for plotting graphs.
